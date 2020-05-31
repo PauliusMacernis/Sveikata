@@ -27,6 +27,9 @@ Tai yra cheminiai elementai [\[LT\]](https://lt.wikipedia.org/wiki/Periodin%C4%9
 
 **Poveikis**:
 Poveikis nėra įtvirtintas visuomenėje kaip teigiamas ar neigiamas, tačiau naujausi tyrimai  [\[1\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5223313/) [\[2\]](https://pubmed.ncbi.nlm.nih.gov/17486089/) rodo, kad vandenilis yra antioksidantas, darantis teigiamą įtaką žmogui. Pasak kai kurių iš tyrinėtų šaltinių, vandenilis yra vienas iš geriausių antioksidantų dėl to, kad vandenilio atomas - mažiausias, tad lengviau nei bet kuris kitas atomas skverbiasi į organizmo gelmes.
+
+**Susijusios temos**:
+pH (vandenilio potencialas), rūgštinis vanduo ir šarminis vanduo, distiliuoto vandens sąveika su ore esančiu CO2 (šviežiai distiliuotas ir sąlyčiui su oro CO2 paliktas vanduo, jungiasi su oro CO2, taip sumažinant savo pH [nuo 6.4 iki 5.5](https://lt.wikipedia.org/wiki/Vandenilio_potencialas)), actas (pH 2.2-2.9), kava (pH 4.8-5.0), arbata (pH 5.5), pienas (pH 6.6) citrinų sultys (pH 2.4), soda (pH 8.3), amoniakas (pH 11), peroksidas, kraujas (pH 7.34–7.45), jūros vanduo (pH 8), oksidantai ir antioksidantai [\[1\]](https://en.wikipedia.org/wiki/Oxidizing_agent), kt.
   
 **Laboratorija ir kaina**: ???  
 **Ribos**:  ???  
@@ -35,6 +38,7 @@ Poveikis nėra įtvirtintas visuomenėje kaip teigiamas ar neigiamas, tačiau na
 - [What Is Hydrogen Water, Benefits and Does It Actually Work?](https://www.youtube.com/watch?v=7ZO99UlkDNU)
 - [Dr. Joe Schwarcz: Are proponents of 'hydrogen water' all wet?](https://www.youtube.com/watch?v=QERsU1Aq1Kw)
 - [Ionized Alkaline Water](https://www.youtube.com/watch?v=6vWNmGHc6xs)
+- [Chemistry: What is pH ; How to Calculate pH (3 examples) | Homework Tutor](https://www.youtube.com/watch?v=9NK2ZQnhoCI)
 
 
 
