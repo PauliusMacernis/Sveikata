@@ -7,7 +7,7 @@ Mano asmeniniu suvokimu, žmogaus kūnas yra su aplinka kontaktuojantis ir todė
 Mano asmeniniu suvokimu, gan rimtos problemos atsiranda tuomet, kai tam tikrų organizmo dalių poreikiai yra aktyvesni nei viso organizmo pajėgumai. Kitaip tariant, žymus ilgalaikis nepriteklius arba žymus ilgalaikis perteklius atsiliepia taip vadinamomis ligomis, ko nenori nei vienas sveikas žmogus, siekiantis gyventi ilgą ir laimingą gyvenimą.  
 
 Būtent todėl ir nusprendžiau su(si)daryti tokią lentelę, kurioje atsispindėtų žmogaus būtinybės.  
-Aš neturiu su medicina susijusio išsilavinimo, todėl prieš panaudodami šią informaciją sau, pasitarkite su savo gydytoju.  
+Aš neturiu su medicina susijusio išsilavinimo, todėl prieš panaudodami šią informaciją sau ar kitam, pasitarkite su gydytoju.  
 
 # [Mikroelementai](https://www.ligos.lt/lt/terminai/mikroelementai/1770/) 
 
