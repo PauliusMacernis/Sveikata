@@ -21,7 +21,7 @@ Tai yra cheminiai elementai [\[LT\]](https://lt.wikipedia.org/wiki/Periodin%C4%9
 
 ## 1. Vandenilis (H)
 
-**Rūšys ir jų tarpusavio sąveika**:
+**Rūšys (t.y. izotopai) ir jų tarpusavio sąveika**:
 Vandenilis yra aptinkamas [kelių tipų](https://lt.wikipedia.org/wiki/Vandenilis):  
 
 - Protis (1H - viduje turi vieną protoną)
