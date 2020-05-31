@@ -33,19 +33,21 @@ Vandenilis yra aptinkamas [kelių tipų](https://lt.wikipedia.org/wiki/Vandenili
 **Kiekiai**: Žmogaus kūno masę sudaro apie 62% vandenilio atomų [\[1\]](https://en.wikipedia.org/wiki/Composition_of_the_human_body). Tai reiškia, kad vandenilio atomų mūsų kūne yra daugiau, nei bet kokių kitų atomų kartu sudėjus. Žmogaus kūne vandenilio atomai (didžia dalimi?) susijungę su kitais atomais, pvz. kaip vanduo, kuris yra dviejų vandenilio atomų ir vieno kito atomo junginys, vanduo - sudaro apie 42-66% [\[1\]](https://en.wikipedia.org/wiki/Composition_of_the_human_body) visos žmogaus kūno masės.  
 
 **Poveikis**:
-Poveikis nėra įtvirtintas visuomenėje kaip teigiamas ar neigiamas, tačiau naujausi tyrimai  [\[1\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5223313/) [\[2\]](https://pubmed.ncbi.nlm.nih.gov/17486089/) rodo, kad vandenilis yra antioksidantas, darantis teigiamą įtaką žmogui. Pasak kai kurių iš tyrinėtų šaltinių, vandenilis yra vienas iš geriausių antioksidantų dėl to, kad vandenilio atomas - mažiausias, tad lengviau nei bet kuris kitas atomas skverbiasi į organizmo gelmes.
+Poveikis nėra įtvirtintas visuomenėje kaip teigiamas ar neigiamas, tačiau naujausi tyrimai  [\[1\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5223313/) [\[2\]](https://pubmed.ncbi.nlm.nih.gov/17486089/) [\[3\]](https://www.nature.com/articles/s41598-018-26388-3) [\[4\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6607864/) rodo, kad vandenilis yra antioksidantas, darantis teigiamą įtaką žmogui. Pasak kai kurių iš tyrinėtų šaltinių, vandenilis yra vienas iš geriausių antioksidantų dėl to, kad vandenilio atomas - mažiausias, tad lengviau nei bet kuris kitas atomas skverbiasi į organizmo gelmes.
 
 **Susijusios temos**:
-pH (vandenilio potencialas), rūgštinis vanduo ir šarminis vanduo, distiliuoto vandens sąveika su ore esančiu CO2 (šviežiai distiliuotas ir sąlyčiui su oro CO2 paliktas vanduo, jungiasi su oro CO2, taip sumažinant savo pH [nuo 6.4 iki 5.5](https://lt.wikipedia.org/wiki/Vandenilio_potencialas)), actas (pH 2.2-2.9), kava (pH 4.8-5.0), arbata (pH 5.5), pienas (pH 6.6) citrinų sultys (pH 2.4), soda (pH 8.3), amoniakas (pH 11), peroksidas, kraujas (pH 7.34–7.45), jūros vanduo (pH 8), oksidantai ir antioksidantai [\[1\]](https://en.wikipedia.org/wiki/Oxidizing_agent), kt.
+pH (vandenilio potencialas), rūgštinis vanduo ir šarminis vanduo, distiliuoto vandens sąveika su ore esančiu CO2 (šviežiai distiliuotas ir sąlyčiui su oro CO2 paliktas vanduo, jungiasi su oro CO2, taip sumažinant savo pH [nuo 6.4 iki 5.5](https://lt.wikipedia.org/wiki/Vandenilio_potencialas)), actas (pH 2.2-2.9), kava (pH 4.8-5.0), arbata (pH 5.5), pienas (pH 6.6) citrinų sultys (pH 2.4), soda (pH 8.3), amoniakas (pH 11), peroksidas, kraujas (pH 7.34–7.45), jūros vanduo (pH 8), oksidantai ir antioksidantai [\[1\]](https://en.wikipedia.org/wiki/Oxidizing_agent), [Oksidacinis stresas](https://www.pasveik.lt/lt/sveikatos-ir-medicinos-naujienos/oksidacinis-stresas/74208/), kt.
   
 **Laboratorija ir kaina**: ???  
 **Ribos**:  ???  
 
 - [Where Does Hydrogen Come From?](https://www.youtube.com/watch?v=Jro6uEaWfTg)
+- [Hydrogen Water Benefits to our Body](https://www.youtube.com/watch?v=MKOUqar8AG0)
 - [What Is Hydrogen Water, Benefits and Does It Actually Work?](https://www.youtube.com/watch?v=7ZO99UlkDNU)
 - [Dr. Joe Schwarcz: Are proponents of 'hydrogen water' all wet?](https://www.youtube.com/watch?v=QERsU1Aq1Kw)
 - [Ionized Alkaline Water](https://www.youtube.com/watch?v=6vWNmGHc6xs)
 - [Chemistry: What is pH ; How to Calculate pH (3 examples) | Homework Tutor](https://www.youtube.com/watch?v=9NK2ZQnhoCI)
-
+- [Health Benefits of Hydrogen Water by Nobel Prize Nominee Dr GARTH NICOLSON Ph D](https://www.youtube.com/watch?v=D7aDB7pKYiM)
+- [Best Hydrogen Bath H2 Spa Generator 2020](https://medium.com/@h2lifeme/hydrogen-bath-generator-h2-spa-2019-sale-973c0e032b7e)
 
 
