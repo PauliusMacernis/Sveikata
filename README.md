@@ -21,6 +21,13 @@ Tai yra cheminiai elementai [\[LT\]](https://lt.wikipedia.org/wiki/Periodin%C4%9
 
 ## 1. Vandenilis (H)
 
+**Rūšys ir jų tarpusavio sąveika**:
+Vandenilis yra aptinkamas [kelių tipų](https://lt.wikipedia.org/wiki/Vandenilis):  
+
+- Protis (1H - viduje turi vieną protoną)
+- Deuteris (2H - viduje turi vieną protoną ir vieną neutroną)
+- Tritis (3H- viduje turi vieną protoną ir du neutronus)
+
 **Istorija**: Aptiktas apie 1500 metus, rimčiau nuo kitų elementų atskirti pradėtas apie 1766 metus. [\[1\]](https://en.wikipedia.org/wiki/Timeline_of_chemical_element_discoveries).  
 
 **Kiekiai**: Žmogaus kūno masę sudaro apie 62% vandenilio atomų [\[1\]](https://en.wikipedia.org/wiki/Composition_of_the_human_body). Tai reiškia, kad vandenilio atomų mūsų kūne yra daugiau, nei bet kokių kitų atomų kartu sudėjus. Žmogaus kūne vandenilio atomai (didžia dalimi?) susijungę su kitais atomais, pvz. kaip vanduo, kuris yra dviejų vandenilio atomų ir vieno kito atomo junginys, vanduo - sudaro apie 42-66% [\[1\]](https://en.wikipedia.org/wiki/Composition_of_the_human_body) visos žmogaus kūno masės.  
