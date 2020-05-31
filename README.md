@@ -2,7 +2,7 @@
 
 Jau kurį laiką viena mintis neduoda ramybės - ar yra koks nors platus tyrimas, kuris atskleistų kas su žmogaus biologiniu kūnu yra negerai arba gerai esamuoju laiko momentu. Ir jeigu toks tyrimas yra, tai kur jis daromas ir kiek kainuoja.  
 
-Mano asmeniniu suvokimu, žmogaus kūnas yra nepaliaujamai kintantis darinys, t.y. kažkokį poreikį (pvz. mikroelementą kalį ar kt.) tai vis kaupiantis, tai vis išnaudojantis. Problemos, ir vėl, mano asmeniniu suvokimu, nėra, jeigu pokyčiai vyksta normos ribose (pvz. organizmo ląstelė nori to kas pasiekiama, arba nenori to kas pašalinama), arba bent jau viskas vyskta taip, kad organizme pasiekus normų užribius - viskas sparčiai ir vėl atsistato į ribas.  
+Mano asmeniniu suvokimu, žmogaus kūnas yra su aplinka kontaktuojantis ir todėl nepaliaujamai kintantis darinys, t.y. kažkokį poreikį (pvz. mikroelementą kalį ar kt.) tai vis kaupiantis, tai vis išnaudojantis. Problemos, ir vėl, mano asmeniniu suvokimu, nėra, jeigu pokyčiai vyksta normos ribose (pvz. organizmo ląstelė nori to kas pasiekiama, arba nenori to kas pašalinama), arba bent jau viskas vyskta taip, kad organizme pasiekus normų užribius - viskas sparčiai ir vėl atsistato į ribas.  
 
 Mano asmeniniu suvokimu, gan rimtos problemos atsiranda tuomet, kai tam tikrų organizmo dalių poreikiai yra didesni nei viso organizmo pajėgumai. Kitaip tariant, žymus ilgalaikis nepriteklius arba žymus ilgalaikis perteklius atsiliepia taip vadinamomis ligomis, ko nenori nei vienas sveikas žmogus, siekiantis gyventi ilgą ir laimingą gyvenimą.  
 
