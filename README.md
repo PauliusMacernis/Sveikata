@@ -15,7 +15,7 @@ Tai yra cheminiai elementai [\[LT\]](https://lt.wikipedia.org/wiki/Periodin%C4%9
 
 Žmogaus, sveriančio 70 kg organizmą sudaro apie [7*10^27, arba kitaip - 7,000,000,000,000,000,000,000,000,000](https://education.jlab.org/qa/mathatom_04.html) paprasčiausių cheminių elementų, t.y. atomų. 
 
-- https://www.youtube.com/watch?v=LhveTGblGHY
+- [What Is an Atom and How Do We Know?](https://www.youtube.com/watch?v=LhveTGblGHY)
 
 
 
@@ -31,10 +31,10 @@ Poveikis nėra įtvirtintas visuomenėje kaip teigiamas ar neigiamas, tačiau na
 **Laboratorija ir kaina**: ???  
 **Ribos**:  ???  
 
-- https://www.youtube.com/watch?v=Jro6uEaWfTg
-- https://www.youtube.com/watch?v=7ZO99UlkDNU
-- https://www.youtube.com/watch?v=QERsU1Aq1Kw
-- https://www.youtube.com/watch?v=6vWNmGHc6xs
+- [Where Does Hydrogen Come From?](https://www.youtube.com/watch?v=Jro6uEaWfTg)
+- [What Is Hydrogen Water, Benefits and Does It Actually Work?](https://www.youtube.com/watch?v=7ZO99UlkDNU)
+- [Dr. Joe Schwarcz: Are proponents of 'hydrogen water' all wet?](https://www.youtube.com/watch?v=QERsU1Aq1Kw)
+- [Ionized Alkaline Water](https://www.youtube.com/watch?v=6vWNmGHc6xs)
 
 
 
