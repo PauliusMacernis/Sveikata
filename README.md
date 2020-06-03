@@ -75,6 +75,9 @@ Inkstų kontrolė. Inkstai kontroliuoja tarpląstelinio skysčio pH. Inkstų sis
 - http://www.anaesthesia.med.usyd.edu.au/resources/lectures/acidbase_mjb/control.html
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4180894/
 - https://www.sciencedirect.com/topics/neuroscience/ph-regulation
+- https://www.usgs.gov/special-topic/water-science-school/science/ph-and-water?qt-science_center_objects=0#qt-science_center_objects
+- https://en.wikipedia.org/wiki/PH
+- https://lt.wikipedia.org/wiki/Vandenilio_potencialas
 
 
 **Susijusios temos**:
