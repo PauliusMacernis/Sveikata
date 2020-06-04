@@ -59,7 +59,7 @@ Vandenilis aptiktas apie 1500 metus, rimčiau nuo kitų elementų atskirti prad�
 Poveikis nėra įtvirtintas visuomenėje kaip teigiamas ar neigiamas, tačiau naujausi tyrimai  [\[1\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5223313/) [\[2\]](https://pubmed.ncbi.nlm.nih.gov/17486089/) [\[3\]](https://www.nature.com/articles/s41598-018-26388-3) [\[4\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6607864/) rodo, kad molekulinis vandenilis (t.y. du vandenilio atomai vienoje molekulėje) yra antioksidantas, darantis teigiamą įtaką žmogui. Pasak kai kurių iš tyrinėtų šaltinių, molekulinis vandenilis yra vienas iš geriausių antioksidantų dėl to, kad vandenilio atomas - mažiausias, tad lengviau nei bet kuris kitas atomas skverbiasi į organizmo gelmes.
 
 **pH (vandenilio potencialas)**:  
-Tai yra vandenilio jonų (H+) koncentracijos tirpale matas. pH matavimo skalė yra nuo 0 iki 14. Kai tirpalo pH yra mažiau kaip 7 - tirpalas vadinamas rūgštimi, kai daugiau nei 7 - vadinamas šarmu, arba kartais - baze. pH 7 reikšmė yra vadinama neutralia, t.y. "neutralus pH". Tiek gamtoje, tiek žmogaus kūne, tiek kitur pH skiriasi, priklausomai nuo tyrimų objekto, pvz.: actas (pH 2.2-2.9), citrinų sultys (pH 2.4), kava (pH 4.8-5.0), arbata (pH 5.5), pienas (pH 6.6), soda (pH 8.3), jūros vanduo (pH 8), amoniakas (pH 11), t.t. 
+Tai yra vandenilio jonų (H+) koncentracijos tirpale matas. pH matavimo skalė yra nuo 0 (t.y. 1 gramo ekvivalentai litre (gram-equivalents per litre)) iki 14 (t.y. 10^−14 gramo ekvivalentai litre (gram-equivalents per litre)). Kai tirpalo pH yra mažiau kaip 7 - tirpalas vadinamas rūgštimi, kai daugiau nei 7 - vadinamas šarmu, arba kartais - baze. pH 7 reikšmė yra vadinama neutralia, t.y. "neutralus pH". Tiek gamtoje, tiek žmogaus kūne, tiek kitur pH skiriasi, priklausomai nuo tyrimų objekto, pvz.: actas (pH 2.2-2.9), citrinų sultys (pH 2.4), kava (pH 4.8-5.0), arbata (pH 5.5), pienas (pH 6.6), soda (pH 8.3), jūros vanduo (pH 8), amoniakas (pH 11), t.t. 
 
 Žmogaus kūne:  
   
@@ -88,7 +88,7 @@ Kvėpavimo kontrolė. Normaliomis sąlygomis kraujo pH yra 7.4. Tačiau, CO2 aud
 Inkstų kontrolė. Inkstai kontroliuoja tarpląstelinio skysčio pH. Inkstų sistema pH veikia dienų lygyje, t.y. ne iš karto. Jeigu skysčių pH yra didelis, inkstai išskiria H+ jonus, bet jeigu karbonato jonų kiekis (carbonate ion levels) yra didelis, yra išlaikomi H+ jonai ir išskiriami HCO3 jonai. Pastarasis procesas yra gan lėtas, bet efektyvus reguliuojant pH. Ribotumas inkstų yra tame, kad šlapimas negali būti žemiau pH 4.4. Todėl rūgštys iš organizmo yra šalinamos reakcijomis su bazinėmis fosforo rūgšties druskomis (basic salts of phosphoric acid) arba į šlapimą įdedant bazę (NH3).  
   
 **TODO:  **
-
+- https://www.britannica.com/science/pH
 - https://www.canada.ca/en/health-canada/services/publications/healthy-living/guidelines-canadian-drinking-water-quality-guideline-technical-document-ph.html
 - https://www.msdmanuals.com/home/hormonal-and-metabolic-disorders/acid-base-balance/overview-of-acid-base-balance
 - http://www.anaesthesia.med.usyd.edu.au/resources/lectures/acidbase_mjb/control.html
