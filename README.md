@@ -79,6 +79,8 @@ Inkstų kontrolė. Inkstai kontroliuoja tarpląstelinio skysčio pH. Inkstų sis
 - https://en.wikipedia.org/wiki/PH
 - https://lt.wikipedia.org/wiki/Vandenilio_potencialas
 - https://en.wikipedia.org/wiki/Hydrogen_ion
+- https://ehjournal.biomedcentral.com/articles/10.1186/s12940-017-0248-y#Sec24
+- https://en.wikipedia.org/wiki/Corona_discharge
 
 
 **Susijusios temos**:
