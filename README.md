@@ -17,7 +17,7 @@ Tai yra cheminiai elementai [\[LT\]](https://lt.wikipedia.org/wiki/Periodin%C4%9
 
 Atomą sudaro protonai, neutronai, ir elektronai. Atomams [Mendelejevo lentelėje](https://lt.wikipedia.org/wiki/Periodin%C4%97_element%C5%B3_lentel%C4%97) yra paskirtas [atomo numeris](https://lt.wikipedia.org/wiki/Atomo_numeris), kuris nusako kiek atome yra protonų. Taigi, vis kitas kiekis protonų reiškia vis kitą atomą, taigi ir vis kitą cheminį elementą, taigi ir vis kitą mikroelementą.  
   
-Atomo viduje protonų ir neutronų skaičius įprastai būna vienodas, tačiau tam tikrai atvejais neutronų kiekis pakinta, o tokie neutronų skaičiumi pakitę atomai vadinami izotopais [\[1\]](https://lt.wikipedia.org/wiki/Izotopas).  
+Atomo viduje protonų ir neutronų skaičius įprastai būna vienodas, tačiau tam tikrai atvejais neutronų kiekis pakinta, o tokie neutronų skaičiumi pakitę atomai vadinami izotopais [\[1\]](https://lt.wikipedia.org/wiki/Izotopas) [\[2\]](https://lt.wikipedia.org/wiki/Izotop%C5%B3_lentel%C4%97).  
 
 Atomą įprastai sudaro vienodas kiekis protonų ir elektronų. Tokios sudėties atomas vadinamas neutralų krūvį turinčiu atomu. Tačiau, kai kuriais atvejais, elektronų kiekis atome gali sumažėti arba padidėti, - toks krūvio pokytį įgavęs atomas vadinamas [jonu](https://lt.wikipedia.org/wiki/Jonas_(dalel%C4%97)). Sumažėjus elektronų kiekiui, atomas tampa teigiamą elektrinį krūvį turinčiu atomu, dar kitaip vadinamu - teigiamu jonu, arba dar kitaip - katijonu, pvz. `H+` - teigiamas vandenilio jonas. Analogiškai, padidėjus elektronų kiekiui, atomas tampa neigiamą elektrinį krūvį turinčiu atomu, dar kitaip - neigiamu jonu, arba dar kitaip - anijonu, pvz. `H-` - neigiamas vandenilio jonas.
 
