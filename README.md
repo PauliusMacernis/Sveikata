@@ -89,6 +89,7 @@ Inkstų kontrolė. Inkstai kontroliuoja tarpląstelinio skysčio pH. Inkstų sis
   
 **TODO:  **
 
+- https://www.canada.ca/en/health-canada/services/publications/healthy-living/guidelines-canadian-drinking-water-quality-guideline-technical-document-ph.html
 - https://www.msdmanuals.com/home/hormonal-and-metabolic-disorders/acid-base-balance/overview-of-acid-base-balance
 - http://www.anaesthesia.med.usyd.edu.au/resources/lectures/acidbase_mjb/control.html
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4180894/
