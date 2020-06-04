@@ -15,22 +15,36 @@ Tai yra cheminiai elementai [\[LT\]](https://lt.wikipedia.org/wiki/Periodin%C4%9
 
 Žmogaus, sveriančio 70 kg organizmą sudaro apie [7*10^27, arba kitaip - 7,000,000,000,000,000,000,000,000,000](https://education.jlab.org/qa/mathatom_04.html) paprasčiausių cheminių elementų, t.y. atomų. 
 
+Atomą sudaro protonai, neutronai, ir elektronai. Atomams [Mendelejevo lentelėje](https://lt.wikipedia.org/wiki/Periodin%C4%97_element%C5%B3_lentel%C4%97) yra paskirtas [atomo numeris](https://lt.wikipedia.org/wiki/Atomo_numeris), kuris nusako kiek atome yra protonų. Taigi, vis kitas kiekis protonų reiškia vis kitą atomą, taigi ir vis kitą cheminį elementą, taigi ir vis kitą mikroelementą.  
+  
+Atomo viduje protonų ir neutronų skaičius įprastai būna vienodas, tačiau tam tikrai atvejais neutronų kiekis pakinta, o tokie neutronų skaičiumi pakitę atomai vadinami izotopais [\[1\]](https://lt.wikipedia.org/wiki/Izotopas).  
+
+Atomą įprastai sudaro vienodas kiekis protonų ir elektronų. Tokios sudėties atomas vadinamas neutralų krūvį turinčiu atomu. Tačiau, kai kuriais atvejais, elektronų kiekis atome gali sumažėti arba padidėti, - toks krūvio pokytį įgavęs atomas vadinamas [jonu](https://lt.wikipedia.org/wiki/Jonas_(dalel%C4%97)). Sumažėjus elektronų kiekiui, atomas tampa teigiamą elektrinį krūvį turinčiu atomu, dar kitaip vadinamu - teigiamu jonu, arba dar kitaip - katijonu, pvz. `H+` - teigiamas vandenilio jonas. Analogiškai, padidėjus elektronų kiekiui, atomas tampa neigiamą elektrinį krūvį turinčiu atomu, dar kitaip - neigiamu jonu, arba dar kitaip - anijonu, pvz. `H-` - neigiamas vandenilio jonas.
+
+
 - [What Is an Atom and How Do We Know?](https://www.youtube.com/watch?v=LhveTGblGHY)
 
 
 
 ## 1. Vandenilis (H)
 
-**Rūšys (t.y. izotopai) ir jų tarpusavio sąveika**:
+**Junginiai su savimi**:
+
+- H2 - du vandenilio atomai susijungę į vieną darinį - molekulę.  
+- kt?
+
+**Izotopai ir jų tarpusavio sąveika**:
 Vandenilis yra aptinkamas [kelių tipų](https://lt.wikipedia.org/wiki/Vandenilis):  
 
 - Protis (1H - viduje turi vieną protoną)
 - Deuteris (2H - viduje turi vieną protoną ir vieną neutroną)
 - Tritis (3H- viduje turi vieną protoną ir du neutronus)
 
-**Junginiai su savimi**:
-- H2 - du vandenilio atomai susijungę į vieną darinį - molekulę.  
+**Jonai ir jų tarpusavio sąveika**:  
+
+- H+
 - kt?
+
 
 **Istorija**: 
 Vandenilis aptiktas apie 1500 metus, rimčiau nuo kitų elementų atskirti pradėtas apie 1766 metus. [\[1\]](https://en.wikipedia.org/wiki/Timeline_of_chemical_element_discoveries).  
