@@ -61,15 +61,15 @@ Tai yra vandenilio jonų (H+) koncentracijos tirpale matas. pH matavimo skalė y
   
 Virškinimo sistema:  
   
-- burnos ertmė - 6.8-7.5 [1](https://www.news-medical.net/health/pH-in-the-Human-Body.aspx)
-- skrandis - 1.5-2.0 [1](https://www.news-medical.net/health/pH-in-the-Human-Body.aspx)
-- dvylikapirštė žarna - 5.6-8.0 [1](https://www.news-medical.net/health/pH-in-the-Human-Body.aspx)
-- plonoji žarna - 7.2-7.5 [1](https://www.news-medical.net/health/pH-in-the-Human-Body.aspx)
-- storoji žarna - 7.9-8.5 [1](https://www.news-medical.net/health/pH-in-the-Human-Body.aspx)
+- burnos ertmė - 6.8-7.5 [\[1\]](https://www.news-medical.net/health/pH-in-the-Human-Body.aspx)
+- skrandis - 1.5-2.0 [\[1\]](https://www.news-medical.net/health/pH-in-the-Human-Body.aspx)
+- dvylikapirštė žarna - 5.6-8.0 [\[1\]](https://www.news-medical.net/health/pH-in-the-Human-Body.aspx)
+- plonoji žarna - 7.2-7.5 [\[1\]](https://www.news-medical.net/health/pH-in-the-Human-Body.aspx)
+- storoji žarna - 7.9-8.5 [\[1\]](https://www.news-medical.net/health/pH-in-the-Human-Body.aspx)
   
 Kita:  
 
-- kraujas (pH 7.34–7.45, ~7.4 [1](https://www.news-medical.net/health/pH-in-the-Human-Body.aspx) )
+- kraujas (pH 7.34–7.45, ~7.4 [\[1\]](https://www.news-medical.net/health/pH-in-the-Human-Body.aspx) )
 - šlapimas (pH >=4.4 ???)
 - tarpląstelinis skystis (???)
   
