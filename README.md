@@ -39,6 +39,10 @@ Vandenilis yra aptinkamas [kelių tipų](https://lt.wikipedia.org/wiki/Vandenili
 - Protis (1H - viduje turi vieną protoną)
 - Deuteris (2H - viduje turi vieną protoną ir vieną neutroną)
 - Tritis (3H- viduje turi vieną protoną ir du neutronus)
+- [4H](https://lt.wikipedia.org/wiki/Izotop%C5%B3_lentel%C4%97)
+- [5H](https://lt.wikipedia.org/wiki/Izotop%C5%B3_lentel%C4%97)
+- [6H](https://lt.wikipedia.org/wiki/Izotop%C5%B3_lentel%C4%97)
+- [7H](https://lt.wikipedia.org/wiki/Izotop%C5%B3_lentel%C4%97)
 
 **Jonai ir jų tarpusavio sąveika**:  
 
